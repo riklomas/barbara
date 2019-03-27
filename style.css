@@ -1,0 +1,15 @@
+* { margin: 0; box-sizing: border-box; }
+
+body {
+  background: white;
+}
+
+.container {
+  min-height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+
+.container.yellow {
+  background-color: yellow;
+}
